@@ -1,6 +1,7 @@
 # blackjack-pygame
 
 INSTRUCTIONS = """\n | Welcome to our version of the Blackjack Game |
+
 =================================================================================
 The goal is to get as close to 21 as possible, without going over 21. 
 Each card has a value and a suit. The values are added for the final result.
@@ -17,5 +18,6 @@ When the game ends or when the player chooses to stand,
 the total value of each hand is calculated.  
 The value that is closest to 21 without going over it wins the game.
 If the total value is over 21, the player or dealer automatically lose the game.
+
 =================================================================================
 """ 
