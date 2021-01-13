@@ -1,6 +1,6 @@
 # blackjack-pygame
 
-INSTRUCTIONS = """\n | Welcome to our version of the Blackjack Game |
+INSTRUCTIONS = """\n | This is a version of the Blackjack Game |
 
 =================================================================================
 The goal is to get as close to 21 as possible, without going over 21. 
